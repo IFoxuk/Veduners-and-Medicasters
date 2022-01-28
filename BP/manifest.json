@@ -1,0 +1,57 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Foxuk"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.1.5",
+				"2.2.1",
+				"2.2.2",
+				"2.2.3"
+			],
+			"dash": [
+				"0.5.0",
+				"0.5.1",
+				"0.7.0"
+			]
+		}
+	},
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"min_engine_version": [
+			1,
+			17,
+			0
+		],
+		"uuid": "ebf28d84-87cd-4bb1-a5c7-5a113945055d",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "a30a1af7-8485-4f42-adaa-9f0d7b197602",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "9f9e4124-6110-4009-a3d9-9ea67db4b6bc",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

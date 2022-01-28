@@ -1,0 +1,78 @@
+{
+	"resource_pack_name": "Veduners and Medicasters",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"flask_potion": {
+			"textures": [
+				"textures/items/vm/flask/potion_flask_absorption",
+				"textures/items/vm/flask/potion_flask_blindness",
+				"textures/items/vm/flask/potion_flask_confusion",
+				"textures/items/vm/flask/potion_flask_damageBoost",
+				"textures/items/vm/flask/potion_flask_digSlowdown",
+				"textures/items/vm/flask/potion_flask_digSpeed",
+				"textures/items/vm/flask/potion_flask_drinkable",
+				"textures/items/vm/flask/potion_flask_empty",
+				"textures/items/vm/flask/potion_flask_fireResistance",
+				"textures/items/vm/flask/potion_flask_harm",
+				"textures/items/vm/flask/potion_flask_heal",
+				"textures/items/vm/flask/potion_flask_healthBoost",
+				"textures/items/vm/flask/potion_flask_hunger",
+				"textures/items/vm/flask/potion_flask_invisibility",
+				"textures/items/vm/flask/potion_flask_jump",
+				"textures/items/vm/flask/potion_flask_moveSlowdown",
+				"textures/items/vm/flask/potion_flask_moveSpeed",
+				"textures/items/vm/flask/potion_flask_nightVision",
+				"textures/items/vm/flask/potion_flask_poison",
+				"textures/items/vm/flask/potion_flask_regeneration",
+				"textures/items/vm/flask/potion_flask_resistance",
+				"textures/items/vm/flask/potion_flask_slowFall",
+				"textures/items/vm/flask/potion_flask_turtleMaster",
+				"textures/items/vm/flask/potion_flask_waterBreathing",
+				"textures/items/vm/flask/potion_flask_weakness",
+				"textures/items/vm/flask/potion_flask_wither"
+			]
+		},
+		"bottle_potion":{
+			"textures":[
+				"textures/items/vm/potion_bottle_absorption",
+				"textures/items/vm/potion_bottle_blindness",
+				"textures/items/vm/potion_bottle_confusion",
+				"textures/items/vm/potion_bottle_digSlowdown",
+				"textures/items/vm/potion_bottle_digSpeed",
+				"textures/items/vm/potion_bottle_healthBoost",
+				"textures/items/vm/potion_bottle_hunger",
+				"textures/items/vm/potion_bottle_resistance"
+			]
+		},
+		"phial_potion":{
+			"textures":[
+				"textures/items/vm/phial/potion_phial_absorption",
+				"textures/items/vm/phial/potion_phial_blindness",
+				"textures/items/vm/phial/potion_phial_confusion",
+				"textures/items/vm/phial/potion_phial_damageBoost",
+				"textures/items/vm/phial/potion_phial_digSlowdown",
+				"textures/items/vm/phial/potion_phial_digSpeed",
+				"textures/items/vm/phial/potion_phial_drinkable",
+				"textures/items/vm/phial/potion_phial_empty",
+				"textures/items/vm/phial/potion_phial_fireResistance",
+				"textures/items/vm/phial/potion_phial_harm",
+				"textures/items/vm/phial/potion_phial_heal",
+				"textures/items/vm/phial/potion_phial_healthBoost",
+				"textures/items/vm/phial/potion_phial_hunger",
+				"textures/items/vm/phial/potion_phial_invisibility",
+				"textures/items/vm/phial/potion_phial_jump",
+				"textures/items/vm/phial/potion_phial_moveSlowdown",
+				"textures/items/vm/phial/potion_phial_moveSpeed",
+				"textures/items/vm/phial/potion_phial_nightVision",
+				"textures/items/vm/phial/potion_phial_poison",
+				"textures/items/vm/phial/potion_phial_regeneration",
+				"textures/items/vm/phial/potion_phial_resistance",
+				"textures/items/vm/phial/potion_phial_slowFall",
+				"textures/items/vm/phial/potion_phial_turtleMaster",
+				"textures/items/vm/phial/potion_phial_waterBreathing",
+				"textures/items/vm/phial/potion_phial_weakness",
+				"textures/items/vm/phial/potion_phial_wither"	
+			]
+		}
+	}
+}

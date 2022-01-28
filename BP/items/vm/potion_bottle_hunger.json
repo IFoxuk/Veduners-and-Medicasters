@@ -1,0 +1,48 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "vm:potion_bottle_hunger",
+			"category": "equipment"
+		},
+		"components": {
+			"minecraft:icon": {
+				"texture": "bottle_potion",
+				"frame": 6
+			},
+			"minecraft:potion": {
+				"type": "regular"
+			},
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.potion"
+			},
+			"minecraft:render_offsets": "potion",
+			"minecraft:foil": true,
+			"minecraft:max_stack_size": 1,
+			"minecraft:display_name": {
+				"value": "pation.hunger.name"
+			},
+			"tag:potion": {},
+			"minecraft:stacked_by_data": true,
+			"minecraft:use_animation": "drink",
+			"minecraft:use_duration": 1.25,
+			"minecraft:food": {
+				"nutrition": 0,
+				"can_always_eat": true,
+				"using_converts_to": "minecraft:glass_bottle",
+				"on_consume": {
+					"event": "vm:effect"
+				}
+			}
+		},
+		"events": {
+			"vm:effect": {
+				"run_command": {
+					"command": [
+						"effect @s hunger 45 0 false"
+					]
+				}
+			}
+		}
+	}
+}

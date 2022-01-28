@@ -1,0 +1,39 @@
+{
+	"format_version": "1.17.40",
+	"minecraft:item": {
+		"description": {
+			"identifier": "vm:phial",
+			"category": "equipment"
+		},
+		"components": {
+			"minecraft:icon": {
+				"texture": "phial_potion",
+				"frame": 7
+			},
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.potion"
+			},
+			"minecraft:render_offsets": "potion",
+			"minecraft:max_stack_size": 64,
+			"minecraft:display_name": {
+				"value": "item.vm:phial"
+			},
+			"minecraft:on_use": {
+				"on_use": {
+					"target": "self",
+					"event": "vm:fill"
+				}
+			}
+		},
+		"events": {
+			"vm:fill": {
+				"run_command": {
+					"command": [
+						"execute @p ~~~ detect ~~~ minecraft:water 0 function vm/phialTransform"
+					],
+					"target": "holder"
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,107 @@
+pack.name=Ведуны и Знахари RP
+pack.description=Тайны старого времени славянской мудрости целительства и прочих вед.
+
+## Базис
+
+achievement.potion=Юный знахарь	#
+achievement.potion.desc=Сварите отвар.	#
+
+entity.lingering_potion.name=Оседающий отвар	#
+entity.splash_potion.name=Отвар	#
+
+itemGroup.name.potion=Отвары	#
+itemGroup.name.splashPotion=Расплёскивающиеся отвары	#
+itemGroup.name.lingeringPotion=Оседающие отвары	#
+
+potion.absorption=Поглощение	#
+potion.blindness=Незрячимость	#
+potion.damageBoost.name=Богатырский отвар	#
+potion.damageBoost.splash.name=Расплёскивающийся богатырский отвар	#
+potion.damageBoost.linger.name=Оседающий богатырский отвар	#
+potion.digSlowDown=Рудакопская усталость 	#
+potion.digSpeed=Проворство	#
+potion.emptyPotion.splash.name=Расплёскивающийся пузырек воды	#
+potion.fireResistance.name=Отвар змеиной кожи	#
+potion.fireResistance.splash.name=Расплёскивающийся отвар змеиной кожи	#
+potion.fireResistance.linger.name=Оседающий отвар змеиной кожи	#
+potion.harm=Порча	#
+potion.harm.name=Отвар порчи	#
+potion.harm.splash.name=Расплёскивающийся отвар порчи	#
+potion.harm.linger.name=Оседающий отвар порчи	#
+potion.heal=Исцеление	#
+potion.heal.name=Отвар исцеления	#
+potion.heal.splash.name=Расплёскивающийся отвар исцеления	#
+potion.heal.linger.name=Оседающий отвар исцеления	#
+potion.healthBoost=Увеличение здоровья	#
+potion.invisibility=Незримость	#
+potion.invisibility.name=Отвар незримости	#
+potion.invisibility.splash.name=Расплёскивающийся отвар незримости	#
+potion.invisibility.linger.name=Оседающий отвар незримости	#
+potion.jump=Заячий прыжок	#
+potion.jump.name=Отвар прыгучести	#
+potion.jump.splash.name=Расплёскивающийся отвар прыгучести	#
+potion.jump.linger.name=Оседающий отвар прыгучести	#
+potion.moveSlowdown.name=Отвар медлительности	#
+potion.moveSlowdown.splash.name=Расплёскивающийся отвар медлительности	#
+potion.moveSlowdown.linger.name=Оседающий отвар медлительности	#
+potion.slowFalling.name=Отвар замедленного падения	#
+potion.slowFalling.splash.name=Расплёскивающийся отвар замедленного падения	#
+potion.slowFalling.linger.name=Оседающий отвар замедленного падения	#
+potion.moveSpeed=Быстрый шаг	#
+potion.moveSpeed.name=Отвар быстрого шага	#
+potion.moveSpeed.splash.name=Расплёскивающийся отвар быстрого шага	#
+potion.moveSpeed.linger.name=Оседающий отвар быстрого шага	#
+potion.nightVision=Кошачий глаз	#
+potion.nightVision.name=Отвар кошачьего глаза	#
+potion.nightVision.splash.name=Расплёскивающийся отвар кошачьего глаза	#
+potion.nightVision.linger.name=Оседающий отвар кошачьего глаза	#
+potion.poison.name=Отвар отравления	#
+potion.poison.splash.name=Расплёскивающийся отвар отравления	#
+potion.poison.linger.name=Оседающий отвар отравления	#
+potion.awkward.name=Неловкий отвар	#
+potion.awkward.splash.name=Расплёскивающийся неловкий отвар	#
+potion.awkward.linger.name=Оседающий неловкий отвар	#
+potion.mundane.name=Заурядный отвар	#
+potion.mundane.splash.name=Расплёскивающийся заурядный отвар	#
+potion.mundane.linger.name=Оседающий заурядный отвар	#
+potion.mundane.extended.name=Сильный заурядный отвар	#
+potion.mundane.extended.splash.name=Расплёскивающийся сильный заурядный отвар	#
+potion.mundane.extended.linger.name=Оседающий сильный заурядный отвар	#
+potion.thick.name=Густой отвар	#
+potion.thick.splash.name=Расплёскивающийся густой отвар	#
+potion.thick.linger.name=Оседающий густой отвар	#
+potion.regeneration=Оздоровление	#
+potion.regeneration.name=Отвар оздоровления	#
+potion.regeneration.splash.name=Расплёскивающийся отвар оздоровления	#
+potion.regeneration.linger.name=Оседающий отвар оздоровления	#
+potion.turtleMaster.name=Отвар знатока черепах	#
+potion.turtleMaster.splash.name=Расплёскивающийся отвар знатока черепах	#
+potion.turtleMaster.linger.name=Оседающий отвар знатока черепах	#
+potion.waterBreathing=Жабры	#
+potion.waterBreathing.name=Отвар подводного дыхания	#
+potion.waterBreathing.splash.name=Расплёскивающийся отвар подводного дыхания	#
+potion.waterBreathing.linger.name=Оседающий отвар подводного дыхания	#
+potion.weakness=Слабость	#
+potion.weakness.name=Отвар слабости	#
+potion.weakness.splash.name=Расплёскивающийся отвар слабости	#
+potion.weakness.linger.name=Оседающий отвар слабости	#
+potion.wither=Разложение	#
+potion.wither.name=Отвар разложения	#
+potion.wither.splash.name=Расплёскивающийся отвар разложения	#
+potion.wither.linger.name=Оседающий отвар разложения	#
+
+## Модификация
+
+pation.absorption.name=Отвар поглощения	#
+pation.blindness.name=Отвар незрячимости	#
+pation.confusion.name=Тошнотворный отвар	#
+pation.digSlowdown.name=Отвар рудакопской усталости	#
+pation.digSpeed.name=Отвар проворства	#
+pation.healthBoost.name=Отвар живучести	#
+pation.hunger.name=Отвар пустого нутра	#
+pation.resistance.name=Отвар каменной кожи	#
+
+item.vm:flask=Колба	#
+item.vm:potion_flask_drinkable=Колба воды	#
+item.vm:phial=Бутыль	#
+item.vm:potion_phial_drinkable=Бутыль воды	#

@@ -1,0 +1,41 @@
+{
+	"type": "minecraftBedrock",
+	"name": "Veduners and Medicasters",
+	"namespace": "vm",
+	"authors": [
+		"Foxuk"
+	],
+	"targetVersion": "1.17.40",
+	"description": "Secrets of the old time Slavic wisdom healing and other Vedas.",
+	"experimentalGameplay": {
+		"cavesAndCliffs": true,
+		"holidayCreatorFeatures": true,
+		"creationOfCustomBiomes": true,
+		"additionalModdingCapabilities": true,
+		"upcomingCreatorFeatures": true,
+		"enableGameTestFramework": false,
+		"experimentalMolangFeatures": true,
+		"educationEdition": false
+	},
+	"packs": {
+		"behaviorPack": "./BP",
+		"resourcePack": "./RP"
+	},
+	"compiler": {
+		"plugins": [
+			"typeScript",
+			"entityIdentifierAlias",
+			"customEntityComponents",
+			"customItemComponents",
+			"customBlockComponents",
+			"customCommands",
+			"moLang",
+			[
+				"simpleRewrite",
+				{
+					"packName": "Veduners and Medicasters"
+				}
+			]
+		]
+	}
+}

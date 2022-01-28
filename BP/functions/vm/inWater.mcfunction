@@ -1,0 +1,1 @@
+execute @s[] ~~~ detect ~~~ minecraft:water 0 function vm/flaskTransform
