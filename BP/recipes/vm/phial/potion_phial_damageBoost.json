@@ -1,0 +1,14 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_brewing_mix": {
+		"description": {
+			"identifier": "vm:potion_phial_damageBoost"
+		},
+		"tags": [
+			"brewing_stand"
+		],
+		"input": "vm:potion_phial_awkward",
+		"reagent": "minecraft:blaze_powder",
+		"output": "vm:potion_phial_damageBoost"
+	}
+}

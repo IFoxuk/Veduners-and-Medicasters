@@ -1,0 +1,14 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_brewing_mix": {
+		"description": {
+			"identifier": "vm:potion_phial_mundaneMelon"
+		},
+		"tags": [
+			"brewing_stand"
+		],
+		"input": "vm:potion_phial_drinkable",
+		"reagent": "minecraft:glistering_melon_slice",
+		"output": "vm:potion_phial_mundane"
+	}
+}
