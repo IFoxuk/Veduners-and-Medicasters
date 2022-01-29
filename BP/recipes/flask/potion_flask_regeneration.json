@@ -1,0 +1,14 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_brewing_mix": {
+		"description": {
+			"identifier": "vm:potion_flask_regeneration"
+		},
+		"tags": [
+			"brewing_stand"
+		],
+		"input": "vm:potion_flask_awkward",
+		"reagent": "minecraft:ghast_tear",
+		"output": "vm:potion_flask_regeneration"
+	}
+}

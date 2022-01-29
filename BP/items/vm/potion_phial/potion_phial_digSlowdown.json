@@ -39,7 +39,7 @@
 			"vm:effect": {
 				"run_command": {
 					"command": [
-						"effect @s weakness 270 0 false"
+						"effect @s mining_fatigue 270 0 false"
 					]
 				}
 			}

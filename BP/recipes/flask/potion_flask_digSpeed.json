@@ -1,0 +1,14 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_brewing_mix": {
+		"description": {
+			"identifier": "vm:potion_flask_digSpeed"
+		},
+		"tags": [
+			"brewing_stand"
+		],
+		"input": "vm:potion_flask_awkward",
+		"reagent": "minecraft:honey_bottle",
+		"output": "vm:potion_flask_digSpeed"
+	}
+}

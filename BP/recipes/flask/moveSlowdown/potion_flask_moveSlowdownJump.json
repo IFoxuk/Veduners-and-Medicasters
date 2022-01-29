@@ -1,0 +1,14 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_brewing_mix": {
+		"description": {
+			"identifier": "vm:potion_flask_moveSlowdownJump"
+		},
+		"tags": [
+			"brewing_stand"
+		],
+		"input": "vm:potion_flask_jump",
+		"reagent": "minecraft:fermented_spider_eye",
+		"output": "vm:potion_flask_moveSlowdown"
+	}
+}
