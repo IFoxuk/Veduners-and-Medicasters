@@ -28,3 +28,4 @@ effect @s water_breathing 90 0 false
 effect @s weakness 90 0 false
 effect @s wither 20 0 false
 
+tellraw @a { "rawtext": [ { "text": "§l§e[SB]§f На сервере есть экономика! \nУзнать баланс: §e/money query§f \nПередать деньги игроку: §e/money pay <ник> <кол-во>" } ] }
