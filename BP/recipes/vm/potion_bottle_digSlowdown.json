@@ -7,7 +7,7 @@
 		"tags": [
 			"brewing_stand"
 		],
-		"input": "vm:potion_bottle_awkward",
+		"input": "minecraft:potion",
 		"reagent": "minecraft:slime_ball",
 		"output": "vm:potion_bottle_digSlowdown"
 	}
