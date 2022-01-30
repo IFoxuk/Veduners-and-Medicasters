@@ -10,12 +10,12 @@
 
 ### Крафты на верстаке
 
-Бутыль:  
+![](https://github.com/IFoxuk/Veduners-and-Medicasters/blob/main/RP/textures/items/vm/phial/potion_phial_empty.png) Бутыль:  
 ![](https://github.com/IFoxuk/Veduners-and-Medicasters/blob/main/img/p.png)![](https://github.com/IFoxuk/Veduners-and-Medicasters/blob/main/img/clear.png)![](https://github.com/IFoxuk/Veduners-and-Medicasters/blob/main/img/p.png)  
 ![](https://github.com/IFoxuk/Veduners-and-Medicasters/blob/main/img/g.png)![](https://github.com/IFoxuk/Veduners-and-Medicasters/blob/main/img/clear.png)![](https://github.com/IFoxuk/Veduners-and-Medicasters/blob/main/img/g.png)  
 ![](https://github.com/IFoxuk/Veduners-and-Medicasters/blob/main/img/clear.png)![](https://github.com/IFoxuk/Veduners-and-Medicasters/blob/main/img/g.png)![](https://github.com/IFoxuk/Veduners-and-Medicasters/blob/main/img/clear.png)
 
-Колба:  
+![](https://github.com/IFoxuk/Veduners-and-Medicasters/blob/main/RP/textures/items/vm/flask/potion_flask_empty.png) Колба:  
 ![](https://github.com/IFoxuk/Veduners-and-Medicasters/blob/main/img/p.png)![](https://github.com/IFoxuk/Veduners-and-Medicasters/blob/main/img/clear.png)![](https://github.com/IFoxuk/Veduners-and-Medicasters/blob/main/img/p.png)  
 ![](https://github.com/IFoxuk/Veduners-and-Medicasters/blob/main/img/clear.png)![](https://github.com/IFoxuk/Veduners-and-Medicasters/blob/main/img/p.png)![](https://github.com/IFoxuk/Veduners-and-Medicasters/blob/main/img/clear.png)
 
@@ -58,3 +58,7 @@
 "reagent": "minecraft:wither_rose"
 
 Остальные крафты аналогичный стандартным.
+
+# Прочее 
+
+Чтобы наполнить бутыль или колбу водой, вам необходимо находиться на один блок в воде (координаты воды для игрока: ~~~ [xyz]) и использовать колбу/бутыль (ЛКМ, либо зажать сенсор)
